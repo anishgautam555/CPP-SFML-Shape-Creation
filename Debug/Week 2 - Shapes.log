@@ -1,0 +1,15 @@
+﻿  circle.cpp
+C:\Users\anish\Documents\IMAT2905\lab code\Lab Book 1\src\circle.cpp(4,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\anish\Documents\IMAT2905\lab code\Lab Book 1\src\circle.cpp(9,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anish\Documents\IMAT2905\lab code\Lab Book 1\src\circle.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  dot.cpp
+  hexagon.cpp
+  line.cpp
+  main.cpp
+  octagon.cpp
+  shape.cpp
+C:\Users\anish\Documents\IMAT2905\lab code\Lab Book 1\src\shape.cpp(6,23): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  square.cpp
+  triangle.cpp
+  Generating Code...
+  Week 2 - Shapes.vcxproj -> C:\Users\anish\Documents\IMAT2905\lab code\Lab Book 1\Debug\Week 2 - Shapes.exe

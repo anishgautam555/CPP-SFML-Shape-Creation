@@ -1,6 +1,3 @@
-# Lab Book 1 Starter  Code
-Starter Code for lab book 1  - Shapes
-
-You will need to download the external libs from blackbaord.
-You can then clone this repo in the labsfolder.
-
+## SFML Shape Assignment
+For this assignment, I used the SFML library to create a display of multiple shapes.
+The mark I received for this assignment is 80/100.
